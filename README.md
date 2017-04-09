@@ -1,9 +1,9 @@
 # ppl-assignment-shaken-notstirred
 ppl-assignment-shaken-notstirred created by GitHub Classroom
 
-PPL Assignment of Pranjal Sanjanwala(IIT2015088)
-Phase-1 in master branch
-Phase-2 in 'Q3-A10' branch
+PPL Assignment of Pranjal Sanjanwala (IIT2015088) | 
+Phase-1 in master branch | 
+Phase-2 in 'Q3-Q10' branch
 **************************************************************************************************
 THE PROJECT HAS BEEN CREATED IN NETBEANS 8.2 (Windows 10 64 bit).CONSIDER BUILDING IT ACCORDINGLY
 **************************************************************************************************
