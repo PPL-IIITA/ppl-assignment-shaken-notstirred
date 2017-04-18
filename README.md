@@ -80,7 +80,7 @@ PHASE-3
 
 The codes of all previous Qs have been modified to handle Exception Handling.
 
-Q1-Q2 are not uploaded again because each of them constitute of a basic algorithm which has been used a number of times in the questions further in which Exceptions have been handled prperly.
+Q1-Q2 are not uploaded again because each of them constitute of a basic algorithm which has been used a number of times in the questions further in which Exceptions have been handled prperly.Codes for Q11 are in folders "Q3Exception" to "Q9Exception" & "10Exception" in Branch named "Q11".
 
 Following Exceptions can be handled in every code.
 
