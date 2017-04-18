@@ -3,7 +3,8 @@ ppl-assignment-shaken-notstirred created by GitHub Classroom
 
 PPL Assignment of Pranjal Sanjanwala (IIT2015088) | 
 Phase-1 in master branch | 
-Phase-2 in 'Q3-Q10' branch
+Phase-2 in 'Q3-Q10' branch |
+Phase-3 in 'Q11' branch
 **************************************************************************************************
 THE PROJECT HAS BEEN CREATED IN NETBEANS 8.2 (Windows 10 64 bit).CONSIDER BUILDING IT ACCORDINGLY
 **************************************************************************************************
@@ -74,6 +75,55 @@ Match-making and Allocation of gifts is done between top k of the given entities
 Q10:
 
 Match-making and Allocation of gifts is done between top k of the given entities in this Question.The answer is stored in a file 'couple.txt'(UTF-8 format).A template class is made that is generic and that returns k random values irrespective of the type of object.The answer is stored in a file 'answer.txt'(UTF-8 format)
+***************************************
+PHASE-3
+
+The codes of all previous Qs have been modified to handle Exception Handling.
+
+Q1-Q2 are not uploaded again because each of them constitute of a basic algorithm which has been used a number of times in the questions further in which Exceptions have been handled prperly.
+
+Following Exceptions can be handled in every code.
+
+-> File Not Found Exception
+-> Array Index Out Of Bounds Exception
+-> Arithematic Exception
+-> Null Pointer Exception
+-> Number Format Exception
+
+The projects have been made in a way that any one of all possible Exceptions is triggered and the corresponding notification is printed on the console.
+
+Q3:
+
+File 'gift.txt' is missing.So, a file not found exception is encountered.
+
+Q4:
+
+Array index one more than the size of array is refered to on line 43 in the main class.So, an Array Index Out Of Bounds Exception is encountered.
+
+
+Q5:
+
+A number is being divided by 0 on line 119 in the main class.So, an Arithematic Exception is encoutered.
+
+Q6:
+
+A typo in file name has led to a File Not Found Exception.The project expects a file called 'girl.txt' instead of which the file name in the concerned location is 'girll.txt'.
+
+Q7:
+
+Due to a change in loop upper bound, an input of type String is being given to the variable of type int.This is causing a Number Format Exception.
+
+Q8:
+
+Array index one & 2 more than the size of array is refered to on line 75 in the main class.So, an Array Index Out Of Bounds Exception is encountered.
+
+Q9:
+
+A variable in the termination condition of loop on line 39 is being divided by 0.So, an Arithematic Exception is encountered.
+
+Q10:
+
+File 'boy.txt' is not found at its place.So, a File Not Found Exception is encountered.
 
 
 
